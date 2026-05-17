@@ -21,6 +21,24 @@ This project is designed as a production-style GitHub portfolio project for AI/b
 - Environment-based configuration
 - Basic tests and CI structure
 
+## Screenshots
+
+### Landing Page
+
+![Landing Page](assets/screenshots/landing-page.png)
+
+### Document Upload
+
+![Document Upload](assets/screenshots/document-upload.png)
+
+### Grounded AI Response
+
+![Grounded Response](assets/screenshots/grounded-response.png)
+
+### Hallucination Guardrails
+
+![Hallucination Guardrails](assets/screenshots/hallucination-guardrails.png)
+
 ## Why This Project Matters
 
 Most simple AI portfolio projects depend on paid APIs and hide the real engineering tradeoffs.
