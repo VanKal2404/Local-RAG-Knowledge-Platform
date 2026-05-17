@@ -1,0 +1,16 @@
+.venv/
+venv/
+backend/.venv/
+
+.env
+
+__pycache__/
+*.pyc
+
+backend/app/storage/chroma/
+backend/app/storage/documents/
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
