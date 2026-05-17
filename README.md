@@ -25,19 +25,19 @@ This project is designed as a production-style GitHub portfolio project for AI/b
 
 ### Landing Page
 
-(assets/screenshots/landing-page.png)
+![Landing Page](assets/screenshots/landing-page.png)
 
 ### Document Upload
 
-(assets/screenshots/document-upload.png)
+![Document Upload](assets/screenshots/document-upload.png)
 
 ### Grounded AI Response
 
-(assets/screenshots/grounded-response.png)
+![Grounded Response](assets/screenshots/grounded-response.png)
 
 ### Hallucination Guardrails
 
-(assets/screenshots/hallucination-guardrails.png)
+![Hallucination Guardrails](assets/screenshots/hallucination-guardrails.png)
 
 ## Why This Project Matters
 
